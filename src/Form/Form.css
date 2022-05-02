@@ -1,0 +1,23 @@
+.authentication__header {
+  color: white;
+  text-align: center;
+}
+
+.authentication {
+  width: 90%;
+  max-width: 32rem;
+  margin: 7rem auto;
+  text-align: center;
+
+  background-color: #050a30;
+  color: white;
+}
+.authentication form {
+  margin-bottom: 1rem;
+}
+
+.sButton {
+  cursor: pointer;
+  border: 2px solid white;
+  color: #aaa;
+}
